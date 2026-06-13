@@ -1,24 +1,27 @@
-This is free and unencumbered software released into the public domain.
+# Licencia de Uso Regulado y Términos de Distribución
+### Proyecto: Simulador de Cambio de Variable en Integrales
+**Estatus Legal: Software Académico de Código Abierto / No Comercial**
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+El presente documento constituye la regulación formal de propiedad intelectual, términos de uso y condiciones de distribución aplicables al prototipo funcional del "Simulador para la Visualización de Cambios de Variable en Integrales". Este marco normativo protege formalmente el esfuerzo de colaboración de sus autores y asegura el destino estrictamente pedagógico del software.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## Reconocimiento Obligatorio de Autoría (Atribución)
+Se otorga la autorización para la copia, uso, análisis y modificación de este software en cualquier formato (código fuente o binario compilado), bajo la condición estricta de mantener y reproducir de manera íntegra, clara y perfectamente visible el reconocimiento explícito y créditos de autoría original a los desarrolladores creadores de este repositorio raíz.
+* Toda derivación, uso de fragmentos o bifurcación (fork) del código en plataformas de control de versiones debe enlazar obligatoriamente al repositorio de origen.
+* El respeto al esfuerzo intelectual conjunto de la colaboración académica es una condición ineludible para la vigencia de los permisos concedidos en esta licencia.
 
-For more information, please refer to <https://unlicense.org>
+## Restricción Comercial Absoluta (Fin No Lucrativo)
+Queda terminantemente prohibida cualquier forma de explotación comercial, directa o indirecta, de este software, sus módulos internos, diseño de algoritmos estructurados o componentes de interfaz gráfica de usuario (GUI).
+* **Prohibición de Venta:** Bajo ninguna circunstancia este código, empaquetado, librería o instalador ejecutable podrá ser vendido, rentado, licenciado de forma pagada o distribuido dentro de canales comerciales con fines de lucro.
+* **Finalidad Exclusiva:** El uso legítimo del simulador queda estrictamente limitado a entornos didácticos, aprendizaje universitario, investigación académica y demostraciones de ingeniería.
+
+## Adaptaciones, Mejoras y Colaboración Abierta
+Se fomenta y acepta la optimización del software con el propósito de refinar su rendimiento pedagógico. Las contribuciones externas orientadas a mejorar los indicadores técnicos (usabilidad, representación visual de pasos o retroalimentación) se rigen por las siguientes pautas:
+* Toda versión modificada, adaptada o expandida deberá distribuirse obligatoriamente bajo estos mismos términos legales y de licenciamiento sin excepción alguna.
+* Las optimizaciones o agregados desarrollados por terceros se sumarán al histórico de aportes, pero el derecho moral y la base conceptual del proyecto original seguirán perteneciendo de forma permanente a los autores de esta colaboración.
+
+## Exención de Responsabilidad Legal
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", EN SU ESTADO ACTUAL DE PROTOTIPO FUNCIONAL DEMOSTRATIVO, SIN GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS (INCLUYENDO, PERO NO LIMITADO A, GARANTÍAS DE OPTIMIZACIÓN MATEMÁTICA ABSOLUTA, AUSENCIA DE ERRORES O IDONEIDAD PARA UN PROPÓSITO ESPECÍFICO).
+
+EN NINGÚN CASO LOS AUTORES O COLABORADORES SERÁN RESPONSABLES POR RECLAMACIONES, DEMANDAS, DAÑOS, PERJUICIOS O CUALQUIER OTRA RESPONSABILIDAD LEGAL, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DERIVADA DEL USO, MANIPULACIÓN O INTERACCIÓN DIRECTA CON EL PRESENTE SOFTWARE.
