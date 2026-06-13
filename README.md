@@ -60,6 +60,6 @@ El prototipo ejecuta de manera controlada y didáctica la siguiente secuencia l�
 
 ## 🚀 Requisitos para la Ejecución del Prototipo
 
-* **Entorno de Desarrollo:** [Completar con el entorno elegido, ej. Visual Studio Code / NetBeans]
-* **Lenguaje base:** [Completar, ej. Java JDK 17 o superior / Python 3.10+]
+* **Entorno de Desarrollo:** [Visual Studio, vs code, netbeans]
+* **Lenguaje base:** [JDK 25, Pyton 3.13. html, css, javaScrip]
 * **Dependencias de Renderizado:** Componentes nativos de interfaz gráfica para asegurar ligereza y portabilidad del ejecutable.
