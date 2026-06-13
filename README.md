@@ -60,6 +60,6 @@ El prototipo ejecuta de manera controlada y didáctica la siguiente secuencia l�
 
 ## 🚀 Requisitos para la Ejecución del Prototipo
 
-* **Entorno de Desarrollo:** [Visual Studio, vs code, netbeans]
-* **Lenguaje base:** [JDK 25, Pyton 3.13. html, css, javaScrip]
+* **Entorno de Desarrollo:** [Visual Studio, vs code, netbeans, Xamp]
+* **Lenguaje base:** [JDK 25, Pyton 3.13. html, css, javaScrip,SQL ]
 * **Dependencias de Renderizado:** Componentes nativos de interfaz gráfica para asegurar ligereza y portabilidad del ejecutable.
