@@ -1,10 +1,10 @@
 # Simulador Interactivo para la Visualización de Cambios de Variable en Integrales
 
 Este repositorio aloja el desarrollo del prototipo funcional y demostrativo diseñado para la visualización secuencial, paso a paso, del método de integración por sustitución (cambio de variable). El objetivo fundamental de este software es mitigar la brecha existente entre la enseñanza puramente algorítmica y la comprensión visual-geométrica del cálculo integral en la educación superior.
-## 📸 Vista previa del diseño
+## 📸 Lo en blanco y negro
 
-![Captura del Login](./icon_curvolve.png)
-
+![Captura del Curvolve](./icon_curvolve.png)
+![Captura del Curvolve](./blanco.png)
 ## 🎯 Propósito del Proyecto
 
 El simulador actúa como una herramienta pedagógica interactiva que reduce la carga cognitiva asociada a la abstracción matemática. A diferencia de softwares de carácter general (como GeoGebra o Wolfram Alpha), este sistema está estructurado específicamente en torno a la técnica de sustitución, permitiendo al estudiante explorar dinámicamente cómo se transforma una integral compleja en una expresión equivalente más simple.
